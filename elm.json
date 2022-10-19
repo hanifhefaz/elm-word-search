@@ -1,0 +1,19 @@
+{
+    "type": "package",
+    "name": "hanifhefaz/elm-word-search",
+    "summary": "Finds the most relevant document to your word",
+    "license": "MIT",
+    "version": "1.0.0",
+    "exposed-modules": [
+        "WordSearcher",
+        "Documents"
+    ],
+    "elm-version": "0.19.0 <= v < 0.20.0",
+    "dependencies": {
+        "elm/core": "1.0.0 <= v < 2.0.0",
+        "elm/html": "1.0.0 <= v < 2.0.0"
+    },
+    "test-dependencies": {
+        "elm-explorations/test": "1.2.2 <= v < 2.0.0"
+    }
+}
