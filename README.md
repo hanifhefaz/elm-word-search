@@ -25,8 +25,8 @@ For example you define all your FAQs and their relevant answers in the Documents
 
 PLEASE READ THE CONTRIBUTING FILE.
 
-## what else?
-
-I am working on example to show how to use this package.
+## usage examples:
 
 a minimal working example is here: https://ellie-app.com/jVZngXZnM5Wa1 
+
+a chatbot example is implemented in ChatBotExample folder.
