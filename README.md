@@ -13,7 +13,7 @@ and your documents include multiple sentences like:
 
 `He is not able to play football in the morning`
 
-The result you get will be `He is not able to play footbal in the morning` since it contains multiple words that match the search query.
+The result you get will be `He is not able to play football in the morning` since it contains multiple words that match the search query.
 
 ## Usage
 
