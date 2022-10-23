@@ -30,3 +30,13 @@ PLEASE READ THE CONTRIBUTING FILE.
 a minimal working example is here: https://ellie-app.com/jVZngXZnM5Wa1 
 
 a chatbot example is implemented in ChatBotExample folder.
+
+## Installation
+
+# using npm:
+
+`npm i elm-word-search`
+
+## using elm 
+
+`elm install hanifhefaz/elm-word-search`
